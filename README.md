@@ -52,20 +52,6 @@
 
 ---
 
-## 🧱 Projects & Repositories
-<div align="center">
-  
-| Project | Description |
-|----------|--------------|
-| 🧠 **AI Core** | Intelligent backend powering OffGrid’s automation models. |
-| 🪐 **Client Dashboard** | Secure analytics and cloud-based control system. |
-| ⚡ **API Engine** | High-performance API framework connecting all services. |
-| 🔒 **NetSec Monitor** | Real-time penetration and vulnerability tracking tool. |
-
-</div>
-
----
-
 ## 🌍 OffGrid Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=offgrid-developer&theme=react-dark&bg_color=000000&color=00bfff&line=0059ff&point=00ffff&hide_border=true" width="95%" />
